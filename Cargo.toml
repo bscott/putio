@@ -3,10 +3,10 @@ name = "putio"
 version = "0.1.0"
 authors = ["bscott"]
 license = "MIT OR Apache-2.0"
-documentation = "https://github.com/bscott/putio-rs"
+documentation = "https://docs.rs/putio"
 repository = "https://github.com/bscott/putio-rs"
 keywords = ["api", "putio"]
-categories = ["api-client"]
+categories = ["api-bindings"]
 exclude = ["rfcs/**/*", "/.travis.yml", ".github"]
 description = """
 A lightweight api client for Put.io V2 API
